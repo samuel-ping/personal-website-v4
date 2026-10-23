@@ -6,8 +6,8 @@ export default function Umami() {
       <Script
         defer={true}
         src="https://stats.samuelp.ing/script.js"
-        data-website-id="8f79f6fd-fcd8-4130-9467-e9eaf1d1f76e"
-        data-domains="samuelp.ing"
+        data-website-id="a15923c0-b869-448c-885b-da0861e7f0b1"
+        data-domains="v4.samuelp.ing"
       />
     </>
   );
